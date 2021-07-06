@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-	char A[]="Shivendra";
+	char A[]="sindhu";
 	int i;
 	for (i=0;A[i]!='\0';i++)
 	{
